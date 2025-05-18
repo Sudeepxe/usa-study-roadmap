@@ -9,7 +9,7 @@ Welcome! This repository is a complete guide and checklist for international stu
 - **Country**: India
 - **Target Intake**: Spring 2026
 - **Goal**: Become a Project Manager & start a tech business in future
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/your-link)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/sudeep-chakravarty-51142422b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
